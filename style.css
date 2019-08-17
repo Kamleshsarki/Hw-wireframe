@@ -1,13 +1,26 @@
+body{
+    background-color:#777;
+   
+    }
+
+
+
+
+
 header{
-background-color: red;
-    width:1200px;
+   background-color:#ebebeb;
+    font-family: Arial;
+    font-size:18px;
+    width:960px;
     height:100px;
     text-align: center;
     padding: 40px;
     }
     Nav{
-        background-color:green;
-            width:1200px;
+        background-color:#ebebeb;
+        font-size: 18px;
+        font-family: Arial;
+            width:960px;
             height:100px;
             text-align: center;
             padding: 40px;
@@ -15,14 +28,58 @@ background-color: red;
             margin-bottom: 15px;
             }
     section{
-        background-color:rgb(13, 0, 128);
-            width:800px;
-            height:100px;
+        background-color:#ebebeb;
+            width:700px;
+            height:500px;
             text-align: center;
             padding: 40px;
             margin-top: 15px;
             margin-bottom: 15px;
-    }        
+
+    } 
+    
+    article{
+        background-color:#ebebeb;
+            width:600px;
+            height:300px;
+            text-align: center;
+            padding: 40px;
+            margin-top: 15px;
+            margin-bottom: 15px;
+    }
+
+       div{
+        background-color:pink;
+            width:500px;
+            height:50px;
+            text-align: center;
+            padding: 10px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+
+       }
+
+      p{
+        background-color:white;
+            width:500px;
+            height:50px;
+            text-align: center;
+            padding: 10px;
+            margin-top: 10px;
+            margin-bottom:2px;
+       }
+
+       footer{
+        background-color:#ebebeb;
+        width:1200px;
+        height:100px;
+        text-align: center;
+        padding: 40px;
+        margin-top: 15px;
+        margin-bottom:40px;
+
+
+       }
     h1{
     font-size: 40px;
     }
@@ -32,5 +89,20 @@ background-color: red;
      h3{
          font-size: 40px;
          }
-     
+
+     h4{
+         font-size: 40px;
+     }
+     h5{
+         font-size: 30px;
+     }
+
+     h6{
+         font-size: 30px;
+    }
+
+     h1{
+        font-size: 30px;
+   }
+         
     
