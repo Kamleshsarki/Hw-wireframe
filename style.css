@@ -11,7 +11,7 @@ header{
    background-color:#ebebeb;
     font-family: Arial;
     font-size:18px;
-    width:960px;
+    width:100%;
     height:100px;
     text-align: center;
     padding: 40px;
@@ -20,7 +20,7 @@ header{
         background-color:#ebebeb;
         font-size: 18px;
         font-family: Arial;
-            width:960px;
+            width:100%;
             height:100px;
             text-align: center;
             padding: 40px;
@@ -59,7 +59,7 @@ header{
 
        }
 
-      p{
+      div{
         background-color:white;
             width:500px;
             height:50px;
@@ -80,6 +80,17 @@ header{
 
 
        }
+aside{
+    background-color:#ebebeb;
+    width:600px;
+    height:300px;
+    text-align: center;
+    padding: 40px;
+    margin-top: 15px;
+    margin-bottom:40px;
+    
+}
+
     h1{
     font-size: 40px;
     }
