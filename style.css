@@ -14,6 +14,7 @@ header{
     height:100px;
     text-align: center;
     padding: 40px;
+    color:#777
     }
     Nav{
         background-color:#ebebeb;
@@ -26,36 +27,38 @@ header{
             padding: 40px;
             margin-top: 15px;
             margin-bottom: 15px;
+            color:#777
             }
     section{
         background-color:#ebebeb;
-            width:600px;
+            width:500px;
             height:500px;
             text-align: center;
             padding: 40px;
             margin-top: 15px;
             margin-bottom: 15px;
+            margin-left: 170px;
             float: left;
+            color:#777
 
     } 
     
     article{
-        background-color:#ebebeb;
-            width:60%;
+        background-color:#777;
+            width:100%;
             height:300px;
-            text-align: center;
+            text-align:center;
             padding: 40px;
             margin-top: 15px;
             margin-bottom: 15px;
             float: left;
+            color:#ebebeb;
     }
-    .article{
-        font: white;
-    }
+    
 
        h4{
-        background-color:pink;
-            width:500px;
+        background-color:#777;
+            width:100%;
             height:50px;
             text-align: center;
             padding: 10px;
@@ -65,13 +68,24 @@ header{
        }
 
       h5{
-        background-color:white;
-            width:500px;
+        background-color:#ebebeb;
+            width:70%px;
             height:50px;
             text-align: center;
             padding: 10px;
             margin-top: 10px;
             margin-bottom:2px;
+            color:#777
+       }
+       p{
+        background-color:#ebebeb;
+            width:70%px;
+            height:50px;
+            text-align: center;
+            padding: 10px;
+            margin-top: 10px;
+            margin-bottom:2px;
+            color:#777
        }
 
        footer{
@@ -82,6 +96,11 @@ header{
         padding: 40px;
         margin-top: 15px;
         margin-bottom:40px;
+        margin-left: 170px;
+        margin-right: 170px;
+        color:#777
+       
+        
 
 
        }
@@ -95,9 +114,10 @@ aside{
     padding: 40px;
     margin-top: 15px;
     margin-bottom:40px;
-    margin-right: 50px;
+    margin-right: 170px;
     float: right;
     overflow: hidden;
+    color:#777
     /* position: fixed;
     right: 0;
     top: 0 */
@@ -105,7 +125,7 @@ aside{
 }
 
     h1, h2, h3, h4, h5, h6{
-    font-size: 40px;
+    font-size: 20px;
     }
 
     .clear{
