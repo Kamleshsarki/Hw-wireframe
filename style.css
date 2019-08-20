@@ -9,7 +9,7 @@ header{
    background-color:#ebebeb;
     font-family: Arial;
     font-size:18px;
-    width:1000px;
+    width:960px;
     margin: auto;
     height:100px;
     text-align: center;
@@ -20,7 +20,7 @@ header{
         background-color:#ebebeb;
         font-size: 18px;
         font-family: Arial;
-            width:1000px;
+            width:960px;
             margin: auto;
             height:100px;
             text-align: center;
@@ -31,13 +31,14 @@ header{
             }
     section{
         background-color:#ebebeb;
-            width:500px;
-            height:500px;
+        font-size:18px;
+            width:495px;
+            height:495px;
             text-align: center;
             padding: 40px;
             margin-top: 15px;
             margin-bottom: 15px;
-            margin-left: 170px;
+            margin-left: 195px;
             float: left;
             color:#777
 
@@ -45,6 +46,7 @@ header{
     
     article{
         background-color:#777;
+        font-size:18px;
             width:100%;
             height:300px;
             text-align:center;
@@ -58,6 +60,7 @@ header{
 
        h4{
         background-color:#777;
+        font-size:18px;
             width:100%;
             height:50px;
             text-align: center;
@@ -69,6 +72,7 @@ header{
 
       h5{
         background-color:#ebebeb;
+        font-size:18px;
             width:70%px;
             height:50px;
             text-align: center;
@@ -79,6 +83,7 @@ header{
        }
        p{
         background-color:#ebebeb;
+        font-size:18px;
             width:70%px;
             height:50px;
             text-align: center;
@@ -88,30 +93,18 @@ header{
             color:#777
        }
 
-       footer{
-        background-color:#ebebeb;
-        width:100%;
-        height:100px;
-        text-align: center;
-        padding: 40px;
-        margin-top: 15px;
-        margin-bottom:40px;
-        margin-left: 170px;
-        margin-right: 170px;
-        color:#777
-              
-       }
-       
+          
 aside{
     display: block;
     background-color:#ebebeb;
-    width:500px;
-    height:500px;
+    font-size:18px;
+    width:400px;
+    height:495px;
     text-align: center;
     padding: 40px;
     margin-top: 15px;
     margin-bottom:40px;
-    margin-right: 170px;
+    margin-right: 195px;
     float: right;
     overflow: hidden;
     color:#777
@@ -121,8 +114,21 @@ aside{
     
 }
 
+footer{
+    background-color:#ebebeb;
+    font-size:18px;
+    width:960px;
+    height:100px;
+    text-align: center;
+    padding: 40px;
+    margin-top: 10px;
+    margin-bottom:40px;
+    margin:auto;
+    color:#777
+          
+   }
     h1, h2, h3, h4, h5, h6{
-    font-size: 20px;
+    font-size: 18px;
     }
 
     .clear{
